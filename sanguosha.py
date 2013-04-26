@@ -1,5 +1,6 @@
 '''
 Manual Sanguosha Card Recorder!
+Better to use iPython to do interaction!
 
 Created on Apr 19, 2013
 
